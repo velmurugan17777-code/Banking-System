@@ -68,7 +68,8 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'config.wsgi.application'
+
+WSGI_APPLICATION = "config.wsgi.application"
 
 # Database — PostgreSQL (production) with SQLite fallback (dev)
 # Set environment variables to use PostgreSQL:
